@@ -8,8 +8,7 @@
   ***Welcome to my planet!***
 </p>
 
-***Hoang***
-#Hoang#
+   ***Welcome to my Planet***
 
 <!---
 HoangMH1304/HoangMH1304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
