@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: maihuyhoang13042002@gmail.com
 <p align="center">
-  **_Welcome to my planet!_**
+  **Welcome to my planet!**
 </p>
 
 <!---
