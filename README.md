@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mai Huy Hoang
+- 🏫 I'm studying Information Technology at PTIT
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,6 +7,9 @@
 <p align="center">
   ***Welcome to my planet!***
 </p>
+
+***Hoang***
+#Hoang#
 
 <!---
 HoangMH1304/HoangMH1304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
