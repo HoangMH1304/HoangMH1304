@@ -1,14 +1,11 @@
 - 👋 Hi, I’m Mai Huy Hoang
 - 🏫 I'm studying Information Technology at PTIT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to code
 - 📫 How to reach me: maihuyhoang13042002@gmail.com
 <p align="center">
-  ***Welcome to my planet!***
+  Welcome to my planet!
 </p>
 
-   ***Welcome to my Planet***
 
 <!---
 HoangMH1304/HoangMH1304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
