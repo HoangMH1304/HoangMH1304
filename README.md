@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to code
 - 📫 How to reach me: maihuyhoang13042002@gmail.com
 <p align="center">
-  Welcome to my planet!
+  <strong>Welcome to my planet!</strong
 </p>
 
 
