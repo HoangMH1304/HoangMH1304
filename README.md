@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  ### <em><strong>Welcome to my planet!</strong></em>
+  <em><strong>### Welcome to my planet!</strong></em>
 </p>
 
 
