@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <h1><em><strong>Welcome to my planet!</strong></em></h1>
+  <em><strong><h5>Welcome to my planet!</h5></strong></em>
 </p>
 
 
