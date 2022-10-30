@@ -2,9 +2,7 @@
 - 🏫 I'm studying Information Technology at PTIT
 - 🌱 I’m currently learning how to code
 - 📫 How to reach me: maihuyhoang13042002@gmail.com
-<p align="center">
-  <strong>Welcome to my planet!</strong
-</p>
+<p align="center">*Welcome to my planet!*</div>
 
 
 <!---
