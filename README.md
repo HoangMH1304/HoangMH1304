@@ -1,8 +1,8 @@
- 👋 Hi, I’m Mai Huy Hoang
+ 👋 Hi, I’m Mai Huy Hoàng
  
  🏫 I'm studying Information Technology at PTIT
  
- 🌱 I’m currently learning how to code
+ 🌱 I’m currently learning programming
 <!-- - 📫 How to reach me: maihuyhoang13042002@gmail.com -->
 
 ***
