@@ -1,8 +1,8 @@
  👋 Hi, I’m Mai Huy Hoàng
  
- 🏫 I'm studying Information Technology at PTIT
+ 🏫 I'm studying IT/Software Engineering at PTIT
  
- 🌱 I’m currently learning programming
+ 🌱 I’m passionate about Unity development
 <!-- - 📫 How to reach me: maihuyhoang13042002@gmail.com -->
 
 ***
