@@ -1,6 +1,6 @@
  👋 Hi, I’m Mai Huy Hoàng
  
- 🏫 I'm studying at PTIT
+ 🏫 I'm studying at Posts and Telecommunications Institute of Technology
  
  💻 My major is Software Engineering
  
