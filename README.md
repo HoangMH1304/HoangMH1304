@@ -1,6 +1,8 @@
  👋 Hi, I’m Mai Huy Hoàng
  
- 🏫 I'm studying IT/Software Engineering at PTIT
+ 🏫 I'm studying at PTIT
+ 
+ 💻 My major is Software Engineering
  
  🌱 I’m passionate about Unity development
 <!-- - 📫 How to reach me: maihuyhoang13042002@gmail.com -->
