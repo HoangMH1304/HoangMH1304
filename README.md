@@ -15,7 +15,7 @@
 
 - Instagram: [mhhoang1304](https://www.instagram.com/mhhoang1304/)
 
-- Linkedin: [Mai Huy Hoàng](https://www.linkedin.com/in/ho%C3%A0ng-mai-745b31146/)
+- Linkedin: [Mai Huy Hoàng](https://www.linkedin.com/in/hoang1304/)
 
 - Email:
   + Personal: <maihuyhoang13042002@gmail.com>
