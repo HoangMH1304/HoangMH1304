@@ -17,9 +17,7 @@
 
 - Linkedin: [Mai Huy Hoàng](https://www.linkedin.com/in/hoang1304/)
 
-- Email:
-  + Personal: <maihuyhoang13042002@gmail.com>
-  + Education: <HoangMH.B20CN275@stu.ptit.edu.vn>
+- Email: <maihuyhoang13042002@gmail.com>
 
 ---
 
